@@ -1,8 +1,12 @@
 ❤️ TinderDAO — Private Match (FHEVM dApp)
 
-A decentralized fully homomorphic encrypted matchmaking dApp on Ethereum (Sepolia testnet) using Zama’s FHEVM protocol.
-Profiles and preferences are encrypted → matched on-chain → only the final match result is decryptable.
-No data leaks. No exposure of personal information.
+TinderDAOPrivateMatch
+Privacy-Preserving Matching for Decentralized Dating Using Zama FHEVM
+
+TinderDAOPrivateMatch is a confidential matching engine built on top of Zama’s Fully Homomorphic Encryption Virtual Machine (FHEVM).
+It allows individuals to upload private dating profiles and search preferences while keeping all sensitive attributes encrypted at every stage of execution.
+
+No plain data ever touches the blockchain — matching is computed homomorphically.
 
 ⚡ Features
 
